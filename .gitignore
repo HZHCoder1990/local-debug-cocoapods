@@ -36,6 +36,7 @@ Carthage/Build
 #
 #/Example/Pods/
 /Pods/
+/iOS/Pods/
 MEPBasicComponentKit.xcworkspace
 erpbosspro.xcworkspace/xcshareddata
 fastlane/CCN
